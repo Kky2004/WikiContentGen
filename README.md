@@ -34,4 +34,7 @@ A Python-based application that fetches information from Wikipedia and converts 
   5. User chooses output:
    - Audio → Converted using gTTS
    - PDF → Generated using ReportLab
+
+
+ ## 📦 Dependencies
  
