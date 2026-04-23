@@ -40,3 +40,6 @@ A Python-based application that fetches information from Wikipedia and converts 
     - wikipedia
     - gTTS
     - reportlab
+
+  ## 📁 Output
+
