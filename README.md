@@ -16,3 +16,5 @@ A Python-based application that fetches information from Wikipedia and converts 
 ## 🛠️ Tech Stack
 - Python  
 - Wikipedia API
+- - gTTS (Google Text-to-Speech)  
+- ReportLab (PDF generation) 
