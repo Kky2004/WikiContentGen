@@ -37,4 +37,6 @@ A Python-based application that fetches information from Wikipedia and converts 
 
 
  ## 📦 Dependencies
- 
+ - wikipedia
+ - gTTS
+ - reportlab
