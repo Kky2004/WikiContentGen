@@ -36,7 +36,7 @@ A Python-based application that fetches information from Wikipedia and converts 
    - PDF → Generated using ReportLab
 
 
- ## 📦 Dependencies
-   - wikipedia
-   - gTTS
-   - reportlab
+   ## 📦 Dependencies
+    - wikipedia
+    - gTTS
+    - reportlab
