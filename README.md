@@ -31,4 +31,7 @@ A Python-based application that fetches information from Wikipedia and converts 
   2. Program searches Wikipedia
   3. User selects a result
   4. Content is fetched
+  5. User chooses output:
+   - Audio → Converted using gTTS
+   - PDF → Generated using ReportLab
  
