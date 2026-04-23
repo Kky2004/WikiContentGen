@@ -26,4 +26,9 @@ A Python-based application that fetches information from Wikipedia and converts 
 -  **pdf/** → Contains generated `.pdf` files  
 - **README.md** → Documentation of the project
 
-  ## ⚙️ How It Works 
+  ## ⚙️ How It Works
+  1. User enters a topic
+  2. Program searches Wikipedia
+  3. User selects a result
+  4. Content is fetched
+ 
