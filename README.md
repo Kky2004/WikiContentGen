@@ -21,3 +21,8 @@ A Python-based application that fetches information from Wikipedia and converts 
 
   
 - ## 📂 Project Structure
+- WikiContentGen/
+│── main.py # Main program file
+│── audio/ # Stores generated audio files
+│── pdf/ # Stores generated PDF files
+│── README.md # Project documentation
