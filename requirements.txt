@@ -1,0 +1,4 @@
+gtts
+wikipedia
+reportlab
+streamlit
