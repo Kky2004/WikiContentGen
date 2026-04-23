@@ -17,4 +17,7 @@ A Python-based application that fetches information from Wikipedia and converts 
 - Python  
 - Wikipedia API
 - gTTS (Google Text-to-Speech)  
-- ReportLab (PDF generation) 
+- ReportLab (PDF generation)
+
+  
+- ## 📂 Project Structure
