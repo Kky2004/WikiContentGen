@@ -42,4 +42,6 @@ A Python-based application that fetches information from Wikipedia and converts 
     - reportlab
 
   ## 📁 Output
+  - audio/output.mp3
+  - pdf/output.pdf
 
