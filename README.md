@@ -10,3 +10,7 @@ A Python-based application that fetches information from Wikipedia and converts 
 -  🎧 Convert text into audio using Text-to-Speech  
 - 🧑‍💻 Simple and interactive command-line interface  
 - ⚡ Fast and lightweight execution  
+
+---
+
+## 🛠️ Tech Stack
