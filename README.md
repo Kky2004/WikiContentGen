@@ -22,4 +22,6 @@ A Python-based application that fetches information from Wikipedia and converts 
   
 - ## 📂 Project Structure
 - **main.py** → Handles user input, Wikipedia search, and conversion logic  
-- **audio/** → Contains generated `.mp3` files  
+- **audio/** → Contains generated `.mp3` files
+- - **pdf/** → Contains generated `.pdf` files  
+- **README.md** → Documentation of the project   
